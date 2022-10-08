@@ -1,7 +1,7 @@
 # Multi-Tool Builder
 First ever multitool builder which creates a multi-tool to be sold or used
 
-#Plans
+# Plans
 - ASCII Art
 - Menu Creator
 - Multiple Styles
